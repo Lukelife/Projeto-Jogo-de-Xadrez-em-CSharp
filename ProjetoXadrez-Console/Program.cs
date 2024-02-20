@@ -1,6 +1,22 @@
 ﻿using tabuleiro;
+using System;
 
-Posicao p = new Posicao(3, 4);
+namespace projetoXadrez_Console
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+
+            Tabuleiro tabuleiro = new Tabuleiro(8, 8);
 
 
-Console.WriteLine($"posição: {p}");
+
+            Console.ReadLine();
+
+
+
+
+        }
+    }
+}
