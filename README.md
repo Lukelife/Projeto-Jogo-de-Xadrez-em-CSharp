@@ -24,7 +24,7 @@ Este é um simples projeto de jogo de xadrez implementado em C# para ser jogado 
 
 ## Autor
 
-[Lucas Guedes] - Eu           - Creditos Professor Nelio Alves.
+[Lucas Guedes] - Eu           - Creditos Professor Nelio Alves - Udemy
 
 ## Agradecimentos
 - Agradeço ao professor Nelio Alves na plataforma Udemy por ter compartilhado seu conhecimento e que me ajudou a aprender e aprimorar minhas habilidades em C#.
